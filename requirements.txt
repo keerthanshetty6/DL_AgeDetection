@@ -1,0 +1,11 @@
+numpy
+pandas
+cv2
+os
+face_recognition
+PIL.Image
+shutil
+re
+glob
+ntpath
+matplotlib.pyplot
